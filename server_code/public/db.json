@@ -1,0 +1,42 @@
+[{
+  "id":1,
+  "company" :"Apple Inc",
+  "marketcap" : "2.4 Trillion USD",
+  "industry": "Electronics, Information Technology",
+  "product":"Mobile, iPod, Personal computers, and tablets"
+  },
+  {
+  "id":2,
+  "company" :"Microsoft",
+  "marketcap" : "2.14 Trillion USD",
+  "industry": "Software Development, Information technology, Consumer electronics",
+  "product":"Windows Operating System, Microsoft Office, Xbox, Search engine"
+  },
+  {
+  "id":3,
+  "company" :"Saudi Aramco",
+  "marketcap" : "1.86 Trillion USD",
+  "industry": "Oil and gas production, refining.",
+  "product":"Crude Oil, Natural Gas, and petrochemical derivatives."
+  },
+  {
+  "id":4,
+  "company" :"Alphabet",
+  "marketcap" : "1.8 Trillion USD",
+  "industry": "Internet, Software services",
+  "product":"Operating System, Search Engine, Mobile Phone"
+  },
+  {
+  "id":5,
+  "company" :"Amazon",
+  "marketcap" : "1.68 Trillion USD",
+  "industry": "Retail business, E-Commerce, Artificial Intelligence",
+  "product":"Software, Kindle, FireTV, Echo"
+  },
+  {
+  "id":5,
+  "company" :"Facebook",
+  "marketcap" : "992 Billion USD",
+  "industry": "Internet",
+  "product":"Whatsapp,Instagram,Facebook"
+}]
